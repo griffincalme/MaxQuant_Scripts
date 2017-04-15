@@ -1,3 +1,6 @@
+# Griffin Calme, Python 3
+# This script merges proteinGroup.txt and Phospho (STY)Sites.txt (or other similar files)
+
 import pandas as pd
 import time
 
