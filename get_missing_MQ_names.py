@@ -1,4 +1,5 @@
-#Griffin Calme 2017, Python 3
+# Griffin Calme 2017, Python 3
+# This script extracts Protein names and Gene names from the fasta header
 
 import pandas as pd
 import time
